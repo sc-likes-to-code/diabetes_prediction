@@ -48,10 +48,11 @@ input_data_reshaped = input_data_as_numpy_array.reshape(1,-1)
 
 # standardize the input data
 std_data = scaler.transform(input_data_reshaped)
-print(std_data)
+# print(std_data)
 
 prediction = classifier.predict(std_data)
-print(prediction) # remember - this prints the value inside a list
+# print(prediction) 
+# remember - this prints the value inside a list
 
 if (prediction[0] == 0):
   print('The person is non-diabetic')
