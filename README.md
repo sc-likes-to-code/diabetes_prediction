@@ -24,9 +24,9 @@ This simple model demonstrates how machine learning can assist in early detectio
 
 ## 📂 Project Structure  
 diabetes-prediction/ <br>
-├── diabetes.csv               # Dataset used for training and testing <br>
-├── diabetes_prediction.py     # Main script for training and prediction <br>
-└── README.md                  # Project overview <br>
+├── diabetes.csv               (Dataset used for training and testing) <br>
+├── diabetes_prediction.py     (Main script for training and prediction) <br>
+└── README.md                  (Project overview) <br>
 
 
 ---
