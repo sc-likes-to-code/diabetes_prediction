@@ -71,15 +71,3 @@ python diabetes_prediction.py
 
 Non-Diabetic: (4, 110, 92, 0, 0, 37.6, 0.191, 30) <br>
 Diabetic: (5, 166, 72, 19, 175, 25.8, 0.587, 51) <br>
-
----
-
-## 📜 License
-
-### This project is licensed under the MIT License. <br>
-
----
-
-### ✍️ Author  
-
-**Shourjya Chakraborty**  
