@@ -4,14 +4,14 @@
 The **Diabetes Prediction Project** utilizes Python and Support Vector Machine (SVM) to predict whether a person is diabetic or non-diabetic based on medical input parameters. <br>  
 This simple model demonstrates how machine learning can assist in early detection of diabetes.  
 
----
+
 
 ## 🚀 Features  
 - **Support Vector Machine Classifier:** A robust algorithm with a linear kernel for prediction. <br>  
 - **Standardized Input Data:** Ensures consistent performance by standardizing input features. <br>  
 - **User-Friendly Prediction Process:** Input medical data and get instant predictions.  
 
----
+
 
 ## 🛠️ Tech Stack  
 - **Language:** Python <br>  
@@ -20,7 +20,7 @@ This simple model demonstrates how machine learning can assist in early detectio
   - `Pandas` for data manipulation <br>  
   - `Scikit-learn` for preprocessing, model training, and evaluation <br>  
 
----
+
 
 ## 📂 Project Structure  
 diabetes-prediction/ <br>
@@ -29,7 +29,7 @@ diabetes-prediction/ <br>
 └── README.md                  (Project overview) <br>
 
 
----
+
 
 ## 🔍 How It Works  
 1. **Dataset:** The model uses the `diabetes.csv` dataset. <br>  
@@ -46,7 +46,7 @@ diabetes-prediction/ <br>
 4. **Prediction:** <br>  
    - The trained model predicts whether the person is diabetic or non-diabetic based on medical inputs. <br>  
 
----
+
 
 ## 🧑‍💻 Getting Started  
 
